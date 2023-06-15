@@ -12,3 +12,5 @@ Flight planning is one of the challenges in Industrial world which faces many un
 <br>9)Training the model 
 <br>10)Testing the model 
 <br>11)We have even build UI using Flask where the user can interact
+# Output
+
