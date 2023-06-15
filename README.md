@@ -13,4 +13,5 @@ Flight planning is one of the challenges in Industrial world which faces many un
 <br>10)Testing the model 
 <br>11)We have even build UI using Flask where the user can interact
 # Output
+![flight_prediction](https://github.com/19wh1a1245/Major-project/assets/69250973/a674e5b4-63c7-4559-83e6-cf446f8a3f52)
 
