@@ -4,11 +4,11 @@ Flight planning is one of the challenges in Industrial world which faces many un
 1)Install VS Code 
 <br>2)Downloading the Flight dataset from kaggle.
 <br>3)Uploading the dataset in the project path
-Data Preprocessing for the text dataset
-Tokenizing the vocabulary and saving the tokenized files to pickle files
-Converting the data to sequences of input data and sequences
-Converting the class vector to binary class matrix
-We then build our model using Random Forest
-Training the model 
-Testing the model 
-We have even build UI using Flask where the user can interact
+<br>4)Data Preprocessing for the text dataset
+<br>5)Tokenizing the vocabulary and saving the tokenized files to pickle files
+<br>6)Converting the data to sequences of input data and sequences
+<br>7)Converting the class vector to binary class matrix
+<br>8)We then build our model using Random Forest
+<br>9)Training the model 
+<br>10)Testing the model 
+<br>11We have even build UI using Flask where the user can interact
